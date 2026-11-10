@@ -1,0 +1,424 @@
+Python 3.14.8 (tags/v3.14.8:8e6e75d, Sep 30 2026, 18:19:33) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+== RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py =
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy
+Daily Schedule
+**********************************
+
+== RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py =
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+
+== RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py =
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+7:30  Homeroom
+7:45  Software Engineering Lab
+
+== RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py =
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+7:30  Homeroom
+7:45  Software Engineering Lab
+10:15 Break
+
+== RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py =
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+7:30  Homeroom
+7:45  Software Engineering Lab
+10:15 Break
+10:30 Software Engineering Lab 
+
+== RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py =
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+7:30  Homeroom
+7:45  Software Engineering Lab
+10:15 Break
+10:30 Software Engineering Lab
+
+== RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py =
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+7:30  Homeroom
+7:45  Software Engineering Lab
+10:15 Break
+10:30 Software Engineering Lab
+12:15 Lunch
+12:45 Academics
+
+= RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+7:30  Homeroom
+7:45  Software Engineering Lab
+10:15 Break
+10:30 Software Engineering Lab
+12:15 Lunch
+12:45 Academics
+----------------------------------
+
+= RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+7:30  Homeroom
+7:45  Software Engineering Lab
+10:15 Break
+10:30 Software Engineering Lab
+12:15 Lunch
+12:45 Academics
+----------------------------------
+Traceback (most recent call last):
+  File "C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py", line 17, in <module>
+    print("Room 112"  -  "Bring your laptop!")
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+= RESTART: C:\Users\mc_dgandhi28\Documents\GitHub\Programming\task1.python.py
+**********************************
+  MEDINA COUNTY CAREER CENTER
+  IT Academy - Daily Schedule
+**********************************
+7:30  Homeroom
+7:45  Software Engineering Lab
+10:15 Break
+10:30 Software Engineering Lab
+12:15 Lunch
+12:45 Academics
+----------------------------------
+Room 112  -  Bring your laptop!
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+BYTE BITES FOOD TRUCK
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+BYTE BITES FOOD TRUCK
++--------------------------------------+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+|        BYTE BITES FOOD TRUCK       |
++--------------------------------------+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+|        BYTE BITES FOOD TRUCK          |
++--------------------------------------+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK                |
++--------------------------------------+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK          |
++--------------------------------------+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK            |
++--------------------------------------+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+Main
+
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders .......... $5.45
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ................................ $2.50
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries .............................. $2.50
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50/n Onion Rings ........... $3.00
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+Traceback (most recent call last):
+  File "C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py", line 13, in <module>
+    print("        Fries ............................... $2.50"/n, "Onion Rings ........... $3.00")
+NameError: name 'n' is not defined
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+ Onion Rings ........... $3.00
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+         Onion Rings ........... $3.00
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+     Onion Rings ............... $3.00
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+      Onion Rings ............... $3.00
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+       Onion Rings ............... $3.00
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ............... $3.00
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ................ $3.00
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ................ $3.00
+        Lemonade ...... ............ $2.00
+        Onion Rings ................ $1.25
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ................ $3.00
+
+    Drinks
+        Lemonade ...... ............ $2.00
+        Onion Rings ................ $1.25
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ................ $3.00
+
+    Drinks
+        Lemonade ...... ............ $2.00
+        Onion Rings .................. $1.25
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ................ $3.00
+
+    Drinks
+        Lemonade ...... ............ $2.00
+        Onion Rings ................. $1.25
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ................ $3.00
+
+    Drinks
+        Lemonade ...... ............ $2.00
+        Onion Rings ................. $1.25
++------------------------------------------+
+Today's special: the "Debugger" Burger
+
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ................ $3.00
+
+    Drinks
+        Lemonade ...... ............ $2.00
+        Onion Rings ................. $1.25
++------------------------------------------+
+ Today's special: the "Debugger" Burger
+Ask about our 'combo' deals!
+>>> 
+= RESTART: C:/Users/mc_dgandhi28/Documents/GitHub/Programming/task1.python/Task.B.py
++--------------------------------------+
+ |        BYTE BITES FOOD TRUCK             |
++--------------------------------------+
+    Main
+        Cheeseburger ............ $6.50
+        Chicken Tenders ....... $5.45
+
+    Sides
+        Fries ............................... $2.50
+        Onion Rings ................ $3.00
+
+    Drinks
+        Lemonade ...... ............ $2.00
+        Onion Rings ................. $1.25
++------------------------------------------+
+ Today's special: the "Debugger" Burger
+ Ask about our 'combo' deals!
